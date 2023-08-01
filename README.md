@@ -1,4 +1,4 @@
-**Project Title: Smart Insurance Contracts - Proof of Concept (POC)**
+##Project Title: Smart Insurance Contracts - Proof of Concept (POC)
 
 ## Overview
 
