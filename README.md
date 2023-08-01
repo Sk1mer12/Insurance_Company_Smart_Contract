@@ -1,7 +1,5 @@
 #Project Title: Smart Insurance Contracts - Proof of Concept (POC)
 
-![Smart Insurance Contracts](https://example.com/images/smart_insurance.png)
-
 ## Overview
 
 This repository contains the code and documentation for a Proof of Concept (POC) project on Smart Insurance Contracts. The objective of this POC is to explore the potential of blockchain technology and smart contracts in the insurance industry. The project aims to develop a transparent and efficient system for purchasing and managing insurance policies, leveraging the benefits of blockchain and decentralized applications (DApps).
