@@ -1,4 +1,4 @@
-# Smart Insurance Contracts - Proof of Concept (POC)
+# Smart Insurance Contracts - Proof of Concept (POC) 
 
 ## Overview
 
