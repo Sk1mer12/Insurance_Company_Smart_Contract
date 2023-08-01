@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Data Simulator</title>
+</head>
+
+<body>
+    <div>
+        <p id="speed_traffic_highway" ></p>
+        <p id="speed_traffic_village" ></p>
+        <p id="headways_between_vehicles" ></p>
+        <p id="acceleration" ></p>
+        <p id="deceleration" ></p>
+        <p id="overtaking_lane_changing" ></p>
+        <p id="traffic_regulations" ></p>
+    </div>
+    <div>
+        <button id="b_start" onclick="start_random();"> Start Generating Data </button>
+        <button id="b_stop" onclick="stop_random();"> Stop Generating Data </button>
+    </div>
+</body>
+
+<script src="src.js"></script>
+
+<style> 
+
+    body{
+        background-color: pink;
+        text-align: center;
+        display: grid;
+        justify-content: center;
+        
+    }
+
+    #b_start{
+        background-color: green;
+        border: none;
+        border-radius: 15px;
+        color: white;
+        padding: 15px 32px;
+        font-size: 16px;
+        margin-right: 5px;
+        float: left;
+    }
+
+    #b_stop{
+        background-color: red;
+        border: none;
+        border-radius: 15px;
+        color: white;
+        padding: 15px 32px;
+        font-size: 16px;
+        margin-left: 5px;
+        float: left;
+    }
+
+</style>
+
+</html>
