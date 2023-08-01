@@ -73,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ---
 
-Thank you for checking out our Smart Insurance Contracts POC project. If you have any questions or need assistance, please don't hesitate to contact us or open an issue. Happy coding!
+Thank you for checking out my Smart Insurance Contracts POC project. If you have any questions or need assistance, please don't hesitate to contact us or open an issue. Happy coding!
